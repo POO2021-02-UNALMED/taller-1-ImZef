@@ -1,0 +1,1 @@
+Porque ahora la carpeta contenia un archivo txt el cual podia ser editado y contaba como un cambio.
