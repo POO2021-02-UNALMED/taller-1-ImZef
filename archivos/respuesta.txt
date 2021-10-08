@@ -1,1 +1,1 @@
-Al crear la carpeta archivo no me  pertia hace rningun commit
+Al crear la carpeta archivo no me permitia hacer ningun commit
