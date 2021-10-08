@@ -1,2 +1,6 @@
-Jose Miguel Sanchez Gonzalez, 19 años, mis aspiraciones con la materia son
-aprender correctamente los fundamentos de la POO.
+-Jose Miguel Sanchez Gonzalez, 19 años, mis aspiraciones con la materia son
+ aprender correctamente los fundamentos de la POO.
+
+-Porque ahora la carpeta contenia un archivo txt, y ahora contaba como cambio al no estar vacia
+
+-Porque podria perderse la modificacion de uno de los dos archivos
